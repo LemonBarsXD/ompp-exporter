@@ -6,7 +6,7 @@ import concurrent.futures
 from functools import partial
 from maniera.calculator import Maniera
 
-def process_map(full_path, target_mods=0, target_score=1000000):
+def process_map(full_path, target_mods=0, target_score=1000067):
     """
     Worker function that runs entirely isolated on its own CPU core.
     Parses metadata quickly, filters non-mania maps, and calculates PP.
