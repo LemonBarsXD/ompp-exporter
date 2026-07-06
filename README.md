@@ -15,7 +15,12 @@ To run this on a new computer, you need two things:
    ```bash
    pip install maniera
 
+## Credit
+This script is powered by the [maniera](https://pypi.org/project/maniera) Python library. 
+Check the GitHub page [here](https://github.com/NiceAesth/maniera).
+
 ## How to Run
 Simply open a terminal in the folder where you saved the script and run:
+
    ```bash
    python main.py
